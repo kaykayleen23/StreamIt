@@ -30,10 +30,6 @@ def getvalue():
         dat=[]
         throw=[]
         throw.append(["TITLE","YEAR","AGE","IMBD","RATINGS","LOCATION"])
-        print('')
-        print (" ")
-        print ("Searching...")
-        print (" ")
         with open('tv_shows (1).csv', 'r', encoding="utf-8") as file:
             reader = csv.reader(file)
             for r in reader:
