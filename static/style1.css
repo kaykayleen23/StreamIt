@@ -139,6 +139,7 @@ img{
     margin-right: 0.5rem;
     outline: none;
     box-shadow: 0 5px 3px rgba(0, 0, 0, 0.45);
+    align-content: center;
 }
 
 .btn:hover{
@@ -318,6 +319,7 @@ img{
     border: none;
     border-radius: 2px;
     color: white;
+    align-content: center;
 }
 
 .footer{
