@@ -30,7 +30,7 @@ h3{
 a{
     color: #ffffff;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 100;
     padding-top: 0.5rem;
     padding-bottom: 1rem;
@@ -356,7 +356,7 @@ img{
 
 .form-box
 {
-    width:500px;
+    width:700px;
 	height:300px;
 	position:relative;
 	margin:2% auto;
